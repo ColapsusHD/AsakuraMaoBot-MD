@@ -139,7 +139,7 @@ const allowedInPrivateForUsers = ['report', 'reporte', 'sug', 'suggest', 'invite
 if (!isOwners && !allowedInPrivateForUsers.includes(command)) return
 }
 if (chat?.isBanned && !(command === 'bot' && text === 'on') && !global.owner.map(num => num + '@s.whatsapp.net').includes(sender)) {
-await m.reply(`ꕥ El bot *${settings.botname}* está desactivado en este grupo.\n\n> ✦ Un *administrador* puede activarlo con el comando:\n> » *${usedPrefix}bot on*`)
+await m.reply(`ꕥ El bot *${settings.botname}* está desactivado en este grupo.\n\n> ✎ Un *administrador* puede activarlo con el comando:\n> » *${usedPrefix}bot on*`)
 return
 }
 
@@ -162,10 +162,6 @@ if (cmdData.isOwner && !global.owner.map(num => num + '@s.whatsapp.net').include
 if (settings.prefix === true) return
 return m.reply(`ꕤ El comando *${command}* no existe.\n✎ Usa *${usedPrefix}help* para ver la lista de comandos disponibles.`)
 }
-if (cmdData.isModeration && !global.mods.map(num => num + '@s.whatsapp.net').includes(sender)) {
-if (settings.prefix === true) return
-return m.reply(`ꕤ El comando *${command}* no existe.\n✎ Usa *${usedPrefix}help* para ver la lista de comandos disponibles.`)
-}    
 if (cmdData.isAdmin && !isAdmins) return client.reply(m.chat, mess.admin, m)
 if (cmdData.botAdmin && !isBotAdmins) return client.reply(m.chat, mess.botAdmin, m)
 try {
