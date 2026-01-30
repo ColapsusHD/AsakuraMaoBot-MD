@@ -1,22 +1,49 @@
+// Importamos fetch (necesario para este bot)
+import fetch from 'node-fetch'
+
 export default {
-  command: ['futanari', 'futasolo', 'futanarisolo'],
+  command: ['futanari', 'futasolo', 'futanarisolo', 'futanarimp4'],
   category: 'nsfw',
   
   run: async (client, m, args, usedPrefix, command, text) => {
     
-    // Verificación de seguridad usando la estructura de tu bot
+    // VALIDACIÓN DE GRUPO Y MODO NSFW
     if (m.isGroup) {
+        // Inicializamos la DB si no existe (igual que en setwelcome)
         if (!global.db.data.chats[m.chat]) global.db.data.chats[m.chat] = {}
-        // Verifica si nsfw (o modohorny, depende de tu settings.js) está activo
-        // Si tu bot usa 'modohorny', cambia .nsfw por .modohorny
-        if (!global.db.data.chats[m.chat].nsfw && !global.db.data.chats[m.chat].modohorny) {
+        
+        // Verificamos si está activado el modo nsfw o modohorny
+        let chat = global.db.data.chats[m.chat]
+        if (!chat.nsfw && !chat.modohorny) {
             return m.reply('[ ⚠️ ] Los comandos +18 están desactivados en este grupo.')
         }
     }
 
-    // Lista de enlaces
-    const futanariImages = [
-      "https://us.rule34.xxx//samples/5221/sample_894a09820f1d582f92352071b2cec687.jpg?6167953",
+    // LÓGICA PARA VIDEO (MP4)
+    if (command === 'futanarimp4') {
+        let listaVideos = [
+            "https://ahri2mp4.rule34.xxx//images/1723/af1aad8933411817279b394f83fe7d5a.mp4?13309285",
+   "https://api-cdn-us-mp4.rule34.xxx//images/1723/9d946dfb74b020652d433431e197e081.mp4?13309281",
+  "https://ahri2mp4.rule34.xxx//images/1723/615dfbf9897d1dbdee5b5a01c25aabb4.mp4?13308215",
+  "https://api-cdn-us-mp4.rule34.xxx//images/1723/1899f4b0507d29f96ecd21c65b26e1d0.mp4?13308808",
+  "https://api-cdn-us-mp4.rule34.xxx//images/1723/ec94d6813a156840ee6d9b1f0f6755ce.mp4?13306941",
+  "https://api-cdn-us-mp4.rule34.xxx//images/1466/c33ec9c2ab9f8502c1e38b9be57449d8.mp4?13304589",
+  "https://api-cdn-us-mp4.rule34.xxx//images/1466/5ed2bd692939af11fe178f9a84769001.mp4?13302695",
+  "https://api-cdn-us-mp4.rule34.xxx//images/2488/c2c4ef432bffff9b58bcfc9b0b6089fb.mp4?13298079",
+  "https://api-cdn-us-mp4.rule34.xxx//images/3085/73e08aad8668f3a21b6aafba8b352b91.mp4?13297151",
+  "https://ahri2mp4.rule34.xxx//images/2482/3fc89778accab75d451cc1141116e09c.mp4?13283934",
+  "https://api-cdn-us-mp4.rule34.xxx//images/2224/53f4357e73034d6ae86646c293e9eb08.mp4?13271184",
+  "https://api-cdn-us-mp4.rule34.xxx//images/1712/bc51e7f169e9ef7bd842652bbfbcf112.mp4?13267867",
+  "https://api-cdn-us-mp4.rule34.xxx//images/1712/9139abe3be818d95753210c088c4e45c.mp4?13269188",
+  "https://api-cdn-us-mp4.rule34.xxx//images/1712/ffdea33d855aed84fa4506acf2672116.mp4?13267494"
+        ]
+        let urlVid = listaVideos[Math.floor(Math.random() * listaVideos.length)]
+        return client.sendFile(m.chat, urlVid, 'futa.mp4', `*_ACA TIENES UNA RICA FUTANARI 🔥_*`, m)
+    }
+
+    // LÓGICA PARA IMAGEN (DEFAULT)
+    let listaImagenes = [
+        "https://us.rule34.xxx//samples/5221/sample_894a09820f1d582f92352071b2cec687.jpg?6167953",
   "https://us.rule34.xxx//samples/5415/sample_af8e6107e6a0eacd59cf82536ffe303b.jpg?6166816",
   "https://us.rule34.xxx//samples/873/sample_c7929364b29ff20ee85ce685f2bd24e7.jpg?6167964",
   "https://us.rule34.xxx//samples/5407/sample_89a9568692df8a5e3e3fb519e339b45e.jpg?6158173",
@@ -536,11 +563,10 @@ export default {
   "https://us.rule34.xxx//images/26/866f38f32deb53eca66b7023a1fca50822f172e0.jpg?25159",
   "https://us.rule34.xxx//images/5150/56dd049986e4aeff863a5e77a83c861c.png",
   "https://us.rule34.xxx//images/5420/6315f18448420bba517797451cd81c53.png"
-    ];
+    ]
+    let urlImg = listaImagenes[Math.floor(Math.random() * listaImagenes.length)]
     
-    let url = futanariImages[Math.floor(Math.random() * futanariImages.length)];
-    
-    // Usamos client.sendFile como corresponde a YukiBot
-    await client.sendFile(m.chat, url, 'futa.jpg', `*_ACA TIENES UNA RICA FUTANARI SOLA 🔥_*`, m);
+    // En YukiBot usamos client.sendFile
+    client.sendFile(m.chat, urlImg, 'futa.jpg', `*_ACA TIENES UNA RICA FUTANARI SOLA 🔥_*`, m)
   }
 }
