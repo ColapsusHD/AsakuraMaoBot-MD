@@ -1,22 +1,22 @@
-import fetch from 'node-fetch'
-
-let handler = async (m, { conn, command, db }) => {
-    // Verificación standard de YukiBot para NSFW
-    if (!db.data.chats[m.chat].nsfw && m.isGroup) {
-        throw '[ ⚠️ ] Los comandos +18 estan desactivados en este grupo. Un admin debe activar con: #enable nsfw'
-    }
+export default {
+  command: ['futanari', 'futasolo', 'futanarisolo'],
+  category: 'nsfw',
+  
+  run: async (client, m, args, usedPrefix, command, text) => {
     
-    let url = global.futanari[Math.floor(Math.random() * global.futanari.length)]
-    conn.sendFile(m.chat, url, 'futa.jpg', `*_ACA TIENES UNA RICA FUTANARI SOLA 🔥_*`, m)
-}
-handler.help = ['futanari']
-handler.tags = ['nsfw']
-handler.command = /^(futasolo|futanarisolo)$/i
-handler.group = true
-export default handler
+    // Verificación de seguridad usando la estructura de tu bot
+    if (m.isGroup) {
+        if (!global.db.data.chats[m.chat]) global.db.data.chats[m.chat] = {}
+        // Verifica si nsfw (o modohorny, depende de tu settings.js) está activo
+        // Si tu bot usa 'modohorny', cambia .nsfw por .modohorny
+        if (!global.db.data.chats[m.chat].nsfw && !global.db.data.chats[m.chat].modohorny) {
+            return m.reply('[ ⚠️ ] Los comandos +18 están desactivados en este grupo.')
+        }
+    }
 
-global.futanari = [
-  "https://us.rule34.xxx//samples/5221/sample_894a09820f1d582f92352071b2cec687.jpg?6167953",
+    // Lista de enlaces
+    const futanariImages = [
+      "https://us.rule34.xxx//samples/5221/sample_894a09820f1d582f92352071b2cec687.jpg?6167953",
   "https://us.rule34.xxx//samples/5415/sample_af8e6107e6a0eacd59cf82536ffe303b.jpg?6166816",
   "https://us.rule34.xxx//samples/873/sample_c7929364b29ff20ee85ce685f2bd24e7.jpg?6167964",
   "https://us.rule34.xxx//samples/5407/sample_89a9568692df8a5e3e3fb519e339b45e.jpg?6158173",
@@ -536,4 +536,11 @@ global.futanari = [
   "https://us.rule34.xxx//images/26/866f38f32deb53eca66b7023a1fca50822f172e0.jpg?25159",
   "https://us.rule34.xxx//images/5150/56dd049986e4aeff863a5e77a83c861c.png",
   "https://us.rule34.xxx//images/5420/6315f18448420bba517797451cd81c53.png"
-]
+    ];
+    
+    let url = futanariImages[Math.floor(Math.random() * futanariImages.length)];
+    
+    // Usamos client.sendFile como corresponde a YukiBot
+    await client.sendFile(m.chat, url, 'futa.jpg', `*_ACA TIENES UNA RICA FUTANARI SOLA 🔥_*`, m);
+  }
+}
