@@ -56,12 +56,57 @@ export default {
     if (['rolcasino', 'casinoinfo', 'infoc'].includes(command)) {
        await client.sendMessage(m.chat, { 
            image: { url: 'https://i.imgur.com/dUy9AUp.png' }, // <--- Link imagen casino
-           caption: `🎰|Comandos Casino/RPG/Economia:
+           caption: `🎰| *Comandos Casino/RPG/Economía:*
 
-_*[BOT MITAMA]*_
-• #bal, #work, #slut, #crime, #dep, #with, #pay
+_*[BOT "#"]*_
+• #bal - Ver tu balance.
+
+• #einfo - Ver info de tu economía.
+
+• #work - Gana Futacoins trabajando.
+
+• #slut - Gana Futacoins prostituyéndote.
+
+• #crime - Gana Futacoins haciendo un crimen.
+
+• #dep - Depositar tus Futacoins en el banco.
+
+• #with - Retirar tus Futacoins del banco.
+
+• #flip - Apostar Futacoins en un cara o cruz.
+
+• #pay [usuario] [cantidad] - Dar Futacoins.
+
+• #rt [rojo/negro] [cantidad] - Apuesta Futacoins en la ruleta.
+
+• #rob [usuario] - Intentar robar Futacoins.
+
+• #d - Recompensa diaria.
+
+_° Más comandos usando #menu → sección Economy._
+
 _*[BOT ASAKURA]*_
-• .adventure, .cazar, .cofre, .balance, .minar`
+• .adventure - Comenzar una aventura.
+
+• .slut - Prostituirte a cambio de monedas o perder en el intento.
+
+• .cazar - Cazar algún animal.
+
+• .cofre - Abrir un cofre.
+
+• .balance - Ver tu balance.
+
+• .deposit [cantidad o all si quieres depositar todo] - Depositar tus monedas al banco.
+
+• .work - Trabajar para ganar coins.
+
+• .minar - Obtener monedas.
+
+• .robar [cantidad] [usuario] - Robar a un usuario.
+
+• .crime - Cometer un crimen.
+
+_° Más comandos usando .menu → sección Economía._`
        }, { quoted: m });
        return;
     }
