@@ -143,7 +143,7 @@ await m.reply(`ꕥ El bot *${settings.botname}* está desactivado en este grupo.
 return
 }
 
-const today = new Date().toLocaleDateString('es-CO', { timeZone: 'America/Bogota', year: 'numeric', month: '2-digit', day: '2-digit' }).split('/').reverse().join('-')
+const today = new Date().toLocaleDateString('es-CO', { timeZone: 'America/Argentina', year: 'numeric', month: '2-digit', day: '2-digit' }).split('/').reverse().join('-')
 const userrs = chatData.users[sender] || {}
 if (!userrs.stats) userrs.stats = {}
 if (!userrs.stats[today]) userrs.stats[today] = { msgs: 0, cmds: 0 }
