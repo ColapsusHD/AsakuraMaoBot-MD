@@ -5,7 +5,7 @@ export default {
   run: async (client, m, args, usedPrefix, command, text) => {
     
     // 1. Aquí pones el Link directo de tu imagen (debe terminar en .jpg o .png preferiblemente)
-    const imagenUrl = 'https://i.imgur.com/5wkxa0v.png'; 
+    const imagenUrl = 'https://i.imgur.com/cGvNorx.jpeg'; 
 
     const reglas = `╰Futabu Club╯
 
