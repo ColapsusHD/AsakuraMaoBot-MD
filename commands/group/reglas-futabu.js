@@ -3,8 +3,13 @@ export default {
   category: 'grupo',
   
   run: async (client, m, args, usedPrefix, command, text) => {
+    
+    // 1. Aquí pones el Link directo de tu imagen (debe terminar en .jpg o .png preferiblemente)
+    const imagenUrl = 'https://i.imgur.com/5wkxa0v.png'; 
+
     const reglas = `╰Futabu Club╯
 
+📝| Reglas:
 📝| Reglas:
 ❖ Respeto 
 ➥ Se debe respetar a todos en el grupo, evitando insultos hacia personas de otros países.
@@ -42,6 +47,14 @@ export default {
 ❖ Flood
 ➥ Se prohíbe enviar múltiples mensajes idénticos para evitar inundar el chat.`;
 
-    m.reply(reglas);
+    // 2. Enviamos el mensaje como Imagen con Caption (Texto)
+    // 'image': acepta url o buffer
+    // 'caption': es el texto que acompaña la foto
+    // 'quoted': m (para que responda al mensaje del usuario)
+    
+    await client.sendMessage(m.chat, { 
+        image: { url: imagenUrl }, 
+        caption: reglas 
+    }, { quoted: m });
   }
 }
