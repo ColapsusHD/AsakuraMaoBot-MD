@@ -3516,336 +3516,434 @@
       }
     ]
   },
-  "26568015": {
+  "01202020": {
     "name": "Uma Musume",
     "characters": [
       {
-        "id": "541579",
-        "name": "Shower Rice",
+        "id": "999991",
+        "name": "Gold Ship",
         "gender": "Mujer",
-        "tags": ["rice_shower_(vampire_makeover!)_(umamusume)"],
+        "tags": ["gold_ship_(umamusume)"],
         "value": 100
       },
-      {
-        "id": "301292",
-        "name": "Ship Gold",
-        "gender": "Mujer",
-        "tags": ["gold_ship_(casual)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "543723",
-        "name": "Cap Oguri",
-        "gender": "Mujer",
-        "tags": ["oguri_cap_(starlight_beat)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "769982",
-        "name": "Tachyon Agnes",
-        "gender": "Mujer",
-        "tags": ["agnes_tachyon_(lunatic_lab)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "694999",
-        "name": "Week Special",
-        "gender": "Mujer",
-        "tags": ["special_week_(special_dreamer)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "752448",
-        "name": "Suzuka Silence",
-        "gender": "Mujer",
-        "tags": ["silence_suzuka_(emerald_on_the_waves)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "417128",
-        "name": "Teio Tokai",
-        "gender": "Mujer",
-        "tags": ["tokai_teio_(beyond_the_horizon)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "854175",
-        "name": "Scarlet Daiwa",
-        "gender": "Mujer",
-        "tags": ["daiwa_scarlet_(casual)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "213920",
-        "name": "Mcqueen Mejiro",
-        "gender": "Mujer",
-        "tags": ["mejiro_mcqueen_(ripple_fairlady)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "922639",
-        "name": "Urara Haru",
-        "gender": "Mujer",
-        "tags": ["haru_urara_(casual)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "198967",
-        "name": "Bourbon Mihono",
-        "gender": "Mujer",
-        "tags": ["mihono_bourbon_(code:glassage)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "988972",
-        "name": "Sky Seiun",
-        "gender": "Mujer",
-        "tags": ["seiun_sky_(soiree_de_chaton)_(umamusume)"],
-        "value": 100
-      },
-      {
+       {
         "id": "555188",
         "name": "Vega Admire",
         "gender": "Mujer",
-        "tags": ["admire_vega_(casual)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "828593",
-        "name": "Digital Agnes",
-        "gender": "Mujer",
-        "tags": ["agnes_digital_(full-color_fangirling)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "177080",
-        "name": "Groove Air",
-        "gender": "Mujer",
-        "tags": ["air_groove_(quercus_civilis)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "145641",
-        "name": "Messiah Air",
-        "gender": "Mujer",
-        "tags": ["air_messiah_(inherited_hope)_(umamusume)"],
+        "tags": ["admire_vega_(umamusume)"],
         "value": 100
       },
       {
         "id": "822341",
         "name": "Shakur Air",
         "gender": "Mujer",
-        "tags": ["air_shakur_(casual)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "753452",
-        "name": "Machan Aston",
-        "gender": "Mujer",
-        "tags": ["aston_machan_(casual)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "148619",
-        "name": "Memory Bamboo",
-        "gender": "Mujer",
-        "tags": ["bamboo_memory_(ultra_marine)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "205123",
-        "name": "Hayahide Biwa",
-        "gender": "Mujer",
-        "tags": ["biwa_hayahide_(pf._winning_equation...)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "974472",
-        "name": "Gentildonna",
-        "gender": "Mujer",
-        "tags": ["gentildonna_(regina_dei_fiori)_(umamusume)"],
+        "tags": ["air_shakur_(umamusume)"],
         "value": 100
       },
       {
         "id": "453702",
         "name": "Cesario",
         "gender": "Mujer",
-        "tags": ["cesario_(future_weaver)_(umamusume)"],
+        "tags": ["cesario_(umamusume)"],
         "value": 100
       },
       {
         "id": "552921",
         "name": "Genesis Chrono",
         "gender": "Mujer",
-        "tags": ["chrono_genesis_(casual)_(umamusume)"],
+        "tags": ["chrono_genesis_(umamusume)"],
         "value": 100
       },
       {
         "id": "871582",
         "name": "Chan Curren",
         "gender": "Mujer",
-        "tags": ["curren_chan_(casual)_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "309188",
-        "name": "Journey Dream",
-        "gender": "Mujer",
-        "tags": ["dream_journey_(casual)_(umamusume)"],
+        "tags": ["curren_chan_(umamusume)"],
         "value": 100
       },
       {
         "id": "811124",
         "name": "Ruby Daiichi",
         "gender": "Mujer",
-        "tags": ["daiichi_ruby_(flowing_blue)_(umamusume)"],
+        "tags": ["daiichi_ruby_(umamusume)"],
         "value": 100
       },
       {
-        "id": "816804",
-        "name": "Helios Daitaku",
+        "id": "753452",
+        "name": "Machan Aston",
         "gender": "Mujer",
-        "tags": ["daitaku_helios_(casual)_(umamusume)"],
+        "tags": ["aston_machan_(umamusume)"],
         "value": 100
       },
       {
-        "id": "597123",
-        "name": "Pasa Condor El",
+        "id": "145641",
+        "name": "Messiah Air",
         "gender": "Mujer",
-        "tags": ["el_condor_pasa_(el_numero_1)_(umamusume)"],
+        "tags": ["air_messiah_(umamusume)"],
         "value": 100
       },
       {
-        "id": "107886",
-        "name": "Kiseki Fuji",
+        "id": "999992",
+        "name": "Tamamo Cross",
         "gender": "Mujer",
-        "tags": ["fuji_kiseki_(shooting_star_revue)_(umamusume)"],
+        "tags": ["tamamo_cross_(umamusume)"],
         "value": 100
       },
       {
-        "id": "150131",
-        "name": "Motion Fine",
+        "id": "999993",
+        "name": "Silence Suzuka",
         "gender": "Mujer",
-        "tags": ["fine_motion_(casual)_(umamusume)"],
+        "tags": ["silence_suzuka_(umamusume)"],
         "value": 100
       },
       {
-        "id": "225828",
-        "name": "Pandora Fusaichi",
+        "id": "999994",
+        "name": "Mejiro McQueen",
         "gender": "Mujer",
-        "tags": ["fusaichi_pandora_(assorted_cuteness)_(umamusume)"],
+        "tags": ["mejiro_mcqueen_(umamusume)"],
         "value": 100
       },
       {
-        "id": "950327",
-        "name": "Wonder Grass",
+        "id": "999995",
+        "name": "Oguri Cap",
         "gender": "Mujer",
-        "tags": ["grass_wonder_(stone-piercing_blue)_(umamusume)"],
+        "tags": ["oguri_cap_(umamusume)"],
         "value": 100
       },
       {
-        "id": "858043",
-        "name": "City Gold",
+        "id": "999996",
+        "name": "Orfevre",
         "gender": "Mujer",
-        "tags": ["gold_city_(akizakura_danzatrice)_(umamusume)"],
+        "tags": ["orfevre_(umamusume)"],
         "value": 100
       },
       {
-        "id": "958795",
-        "name": "Akebono Hishi",
-        "gender": "Mujer",
-        "tags": ["hishi_akebono_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "702994",
-        "name": "Amazon Hishi",
-        "gender": "Mujer",
-        "tags": ["hishi_amazon_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "601415",
-        "name": "Miracle Hishi",
-        "gender": "Mujer",
-        "tags": ["hishi_miracle_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "412563",
-        "name": "Tarumae Hokko",
-        "gender": "Mujer",
-        "tags": ["hokko_tarumae_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "966167",
-        "name": "Dictus Ikuno",
-        "gender": "Mujer",
-        "tags": ["ikuno_dictus_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "684846",
-        "name": "Princess Kawakami",
-        "gender": "Mujer",
-        "tags": ["kawakami_princess_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "225332",
-        "name": "Ace Katsuragi",
-        "gender": "Mujer",
-        "tags": ["katsuragi_ace_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "419020",
-        "name": "K.s.miracle",
-        "gender": "Mujer",
-        "tags": ["k.s.miracle_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "656175",
-        "name": "Pocket Jungle",
-        "gender": "Mujer",
-        "tags": ["jungle_pocket_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "179090",
-        "name": "Fujin Ines",
-        "gender": "Mujer",
-        "tags": ["ines_fujin_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "940109",
-        "name": "Maruzensky",
-        "gender": "Mujer",
-        "tags": ["maruzensky_(umamusume)"],
-        "value": 100
-      },
-      {
-        "id": "638796",
-        "name": "Cafe Manhattan",
+        "id": "999997",
+        "name": "Manhattan Cafe",
         "gender": "Mujer",
         "tags": ["manhattan_cafe_(umamusume)"],
         "value": 100
       },
       {
-        "id": "150438",
-        "name": "Lilac Lucky",
+        "id": "999998",
+        "name": "Agnes Tachyon",
         "gender": "Mujer",
-        "tags": ["lucky_lilac_(umamusume)"],
+        "tags": ["agnes_tachyon_(umamusume)"],
         "value": 100
       },
       {
-        "id": "439870",
-        "name": "You Only Loves",
+        "id": "999999",
+        "name": "Fujimasa March",
         "gender": "Mujer",
-        "tags": ["loves_only_you_(umamusume)"],
+        "tags": ["fujimasa_march_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999910",
+        "name": "Kitasan Black",
+        "gender": "Mujer",
+        "tags": ["kitasan_black_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999911",
+        "name": "Rice Shower",
+        "gender": "Mujer",
+        "tags": ["rice_shower_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999912",
+        "name": "Haru Urara",
+        "gender": "Mujer",
+        "tags": ["haru_urara_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999913",
+        "name": "Special Week",
+        "gender": "Mujer",
+        "tags": ["special_week_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999914",
+        "name": "T.M. Opera O",
+        "gender": "Mujer",
+        "tags": ["t.m._opera_o_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999915",
+        "name": "Tokai Teio",
+        "gender": "Mujer",
+        "tags": ["tokai_teio_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999916",
+        "name": "Satono Diamond",
+        "gender": "Mujer",
+        "tags": ["satono_diamond_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999917",
+        "name": "Matikane Tannhauser",
+        "gender": "Mujer",
+        "tags": ["matikane_tannhauser_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999918",
+        "name": "Super Creek",
+        "gender": "Mujer",
+        "tags": ["super_creek_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999919",
+        "name": "Daiwa Scarlet",
+        "gender": "Mujer",
+        "tags": ["daiwa_scarlet_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999920",
+        "name": "Gentildonna",
+        "gender": "Mujer",
+        "tags": ["gentildonna_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999921",
+        "name": "Twin Turbo",
+        "gender": "Mujer",
+        "tags": ["twin_turbo_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999922",
+        "name": "El Condor Pasa",
+        "gender": "Mujer",
+        "tags": ["el_condor_pasa_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999923",
+        "name": "Meisho Doto",
+        "gender": "Mujer",
+        "tags": ["meisho_doto_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999924",
+        "name": "Air Groove",
+        "gender": "Mujer",
+        "tags": ["air_groove_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999925",
+        "name": "Still in Love",
+        "gender": "Mujer",
+        "tags": ["still_in_love_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999926",
+        "name": "Symboli Rudolf",
+        "gender": "Mujer",
+        "tags": ["symboli_rudolf_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999927",
+        "name": "Dream Journey",
+        "gender": "Mujer",
+        "tags": ["dream_journey_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999928",
+        "name": "Narita Taishin",
+        "gender": "Mujer",
+        "tags": ["narita_taishin_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999929",
+        "name": "Gold City",
+        "gender": "Mujer",
+        "tags": ["gold_city_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999930",
+        "name": "Kawakami Princess",
+        "gender": "Mujer",
+        "tags": ["kawakami_princess_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "9999931",
+        "name": "Stay Gold",
+        "gender": "Mujer",
+        "tags": ["stay_gold_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999932",
+        "name": "Jungle Pocket",
+        "gender": "Mujer",
+        "tags": ["jungle_pocket_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999933",
+        "name": "Narita Top Road",
+        "gender": "Mujer",
+        "tags": ["narita_top_road_(umamusume)"],
+        "value": 100
+      }, 
+      {
+        "id": "999935",
+        "name": "Mejiro Ramonu",
+        "gender": "Mujer",
+        "tags": ["mejiro_ramonu_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999936",
+        "name": "Narita Brian",
+        "gender": "Mujer",
+        "tags": ["narita_brian_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999937",
+        "name": "Mihono Bourbon",
+        "gender": "Mujer",
+        "tags": ["mihono_bourbon_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999938",
+        "name": "King Halo",
+        "gender": "Mujer",
+        "tags": ["king_halo_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999939",
+        "name": "Hishi Amazon",
+        "gender": "Mujer",
+        "tags": ["hishi_amazon_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999940",
+        "name": "Obey Your Master",
+        "gender": "Mujer",
+        "tags": ["obey_your_master_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999941",
+        "name": "Mejiro Dober",
+        "gender": "Mujer",
+        "tags": ["mejiro_dober_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999942",
+        "name": "Mayano Top Gun",
+        "gender": "Mujer",
+        "tags": ["mayano_top_gun_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999943",
+        "name": "Nakayama Festa",
+        "gender": "Mujer",
+        "tags": ["nakayama_festa_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999944",
+        "name": "Cheval Grand",
+        "gender": "Mujer",
+        "tags": ["cheval_grand_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999945",
+        "name": "Agnes Digital",
+        "gender": "Mujer",
+        "tags": ["agnes_digital_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999946",
+        "name": "Vodka",
+        "gender": "Mujer",
+        "tags": ["vodka_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999947",
+        "name": "Biwa Hayahide",
+        "gender": "Mujer",
+        "tags": ["biwa_hayahide_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999948",
+        "name": "Sakura Chiyono",
+        "gender": "Mujer",
+        "tags": ["sakura_chiyono_o_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999949",
+        "name": "Sakura Bakushin-O",
+        "gender": "Mujer",
+        "tags": ["sakura_bakushin_o_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999950",
+        "name": "Fenomeno",
+        "gender": "Mujer",
+        "tags": ["fenomeno_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999951",
+        "name": "Nice Nature",
+        "gender": "Mujer",
+        "tags": ["nice_nature_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999952",
+        "name": "Seiun Sky",
+        "gender": "Mujer",
+        "tags": ["seiun_sky_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999953",
+        "name": "Daitaku Helios",
+        "gender": "Mujer",
+        "tags": ["daitaku_helios_(umamusume)"],
+        "value": 100
+      },
+      {
+        "id": "999954",
+        "name": "Calstone Light O",
+        "gender": "Mujer",
+        "tags": ["calstone_light_O_(umamusume)"],
         "value": 100
       }
     ]
@@ -5063,24 +5161,254 @@
         "value": 100
       },
       {
-        "id": "482853",
-        "name": "Goku Black",
+        "id": "000001",
+        "name": "Tablos",
         "gender": "Hombre",
-        "tags": ["goku_black"],
+        "tags": ["tablos_(dragon_ball_af)"],
         "value": 100
       },
       {
-        "id": "966498",
-        "name": "Goku",
+        "id": "000002",
+        "name": "Bardock",
         "gender": "Hombre",
-        "tags": ["goku"],
+        "tags": ["bardock"],
         "value": 100
       },
       {
-        "id": "233480",
-        "name": "Krillin",
+        "id": "000003",
+        "name": "Android 21",
+        "gender": "Mujer",
+        "tags": ["android_21"],
+        "value": 100
+      },
+      {
+        "id": "000004",
+        "name": "Jiren",
         "gender": "Hombre",
-        "tags": ["krillin"],
+        "tags": ["jiren"],
+        "value": 100
+      },
+      {
+        "id": "000005",
+        "name": "Videl",
+        "gender": "Mujer",
+        "tags": ["videl"],
+        "value": 100
+      },
+      {
+        "id": "000006",
+        "name": "Shallot",
+        "gender": "Hombre",
+        "tags": ["shallot_(dragon_ball)"],
+        "value": 100
+      },
+      {
+        "id": "000007",
+        "name": "Kefla",
+        "gender": "Mujer",
+        "tags": ["kefla_(dragon_ball)"],
+        "value": 100
+      },
+      {
+        "id": "000008",
+        "name": "Gine",
+        "gender": "Mujer",
+        "tags": ["gine"],
+        "value": 100
+      },
+      {
+        "id": "000009",
+        "name": "Zamasu",
+        "gender": "Hombre",
+        "tags": ["zamasu"],
+        "value": 100
+      },
+      {
+        "id": "000010",
+        "name": "Android 18",
+        "gender": "Mujer",
+        "tags": ["android_18"],
+        "value": 100
+      },
+      {
+        "id": "000011",
+        "name": "Caulifla",
+        "gender": "Mujer",
+        "tags": ["caulifla"],
+        "value": 100
+      },
+      {
+        "id": "000012",
+        "name": "Trunks",
+        "gender": "Hombre",
+        "tags": ["trunks_(future)_(dragon_ball)"],
+        "value": 100
+      },
+      {
+        "id": "000013",
+        "name": "Cooler",
+        "gender": "Hombre",
+        "tags": ["cooler_(dragon_ball)"],
+        "value": 100
+      },
+      {
+        "id": "000014",
+        "name": "Vados",
+        "gender": "Mujer",
+        "tags": ["vados_(dragon_ball)"],
+        "value": 100
+      },
+      {
+        "id": "000015",
+        "name": "Android 17",
+        "gender": "Hombre",
+        "tags": ["android_17"],
+        "value": 100
+      }
+    ]
+  },
+  "00000001": {
+    "name": "Invincible",
+    "tags": ["Invincible"],
+    "characters": [
+      {
+        "id": "000017",
+        "name": "Mark Grayson",
+        "gender": "Hombre",
+        "tags": ["mark_grayson"],
+        "value": 100
+      },
+      {
+        "id": "000018",
+        "name": "Thragg",
+        "gender": "Hombre",
+        "tags": ["thragg_(invincible)"],
+        "value": 100
+      },
+      {
+        "id": "000019",
+        "name": "Anissa",
+        "gender": "Mujer",
+        "tags": ["anissa_(invincible)"],
+        "value": 100
+      },
+      {
+        "id": "000020",
+        "name": "Shiesty Mark",
+        "gender": "Hombre",
+        "tags": ["shiesty_mark"],
+        "value": 100
+      },
+      {
+        "id": "000021",
+        "name": "Mohawk Mark",
+        "gender": "Hombre",
+        "tags": ["mohawk_mark"],
+        "value": 100
+      },
+      {
+        "id": "000022",
+        "name": "Flaxan Mark",
+        "gender": "Hombre",
+        "tags": ["flaxan_mark"],
+        "value": 100
+      },
+      {
+        "id": "000023",
+        "name": "Viltrumite Mark",
+        "gender": "Hombre",
+        "tags": ["viltrumite_mark"],
+        "value": 100
+      },
+      {
+        "id": "000024",
+        "name": "Sinister Mark",
+        "gender": "Hombre",
+        "tags": ["sinister_mark"],
+        "value": 100
+      },
+      {
+        "id": "000025",
+        "name": "Conquest",
+        "gender": "Hombre",
+        "tags": ["conquest_(invincible)"],
+        "value": 100
+      },
+      {
+        "id": "000026",
+        "name": "Samantha Eve Wilkins",
+        "gender": "Mujer",
+        "tags": ["samantha_eve_wilkins"],
+        "value": 100
+      },
+      {
+        "id": "000027",
+        "name": "Battle Beast",
+        "gender": "Hombre",
+        "tags": ["battle_beast_(invincible)"],
+        "value": 100
+      },
+      {
+        "id": "000028",
+        "name": "Nolan Grayson",
+        "gender": "Hombre",
+        "tags": ["nolan_grayson"],
+        "value": 100
+      },
+      {
+        "id": "000029",
+        "name": "Kregg",
+        "gender": "Hombre",
+        "tags": ["kregg"],
+        "value": 100
+      },
+      {
+        "id": "000030",
+        "name": "Lensless Mark",
+        "gender": "Hombre",
+        "tags": ["lensless_mark"],
+        "value": 100
+      },
+      {
+        "id": "000031",
+        "name": "Oliver Grayson",
+        "gender": "Hombre",
+        "tags": ["oliver_grayson"],
+        "value": 100
+      },
+      {
+        "id": "000032",
+        "name": "Debbie Grayson",
+        "gender": "Mujer",
+        "tags": ["debbie_grayson"],
+        "value": 100
+      },
+      {
+        "id": "000033",
+        "name": "Maskless Mark",
+        "gender": "Hombre",
+        "tags": ["maskless_mark"],
+        "value": 100
+      },
+      {
+        "id": "000034",
+        "name": "ShrinKing Rae",
+        "gender": "Hombre",
+        "tags": ["shrinking_rae_(invincible)"],
+        "value": 100
+      },
+      {
+        "id": "000035",
+        "name": "Tech Jacket",
+        "gender": "Hombre",
+        "tags": ["tech_jacket"],
+        "value": 100
+      },
+      {
+        "id": "000036",
+        "name": "Armstrong Levy",
+        "gender": "Hombre",
+        "tags": ["armstrong_levy"],
         "value": 100
       }
     ]
@@ -13929,6 +14257,361 @@
       }
     ]
   },
+  "93668492": {
+    "name": "Shingeki No Kyojin",
+    "characters": [
+      {
+        "id": "901295",
+        "name": "Mikasa Ackerman",
+        "gender": "Mujer",
+        "tags": ["mikasa_ackerman"],
+        "value": 100
+      },
+      {
+        "id": "406969",
+        "name": "Historia Reiss",
+        "gender": "Mujer",
+        "tags": ["historia_reiss"],
+        "value": 100
+      },
+      {
+        "id": "825011",
+        "name": "Annie Leonhart",
+        "gender": "Mujer",
+        "tags": ["annie_leonhart"],
+        "value": 100
+      },
+      {
+        "id": "217898",
+        "name": "Zoe Hange",
+        "gender": "Mujer",
+        "tags": ["hange_zoe"],
+        "value": 100
+      },
+      {
+        "id": "786764",
+        "name": "Ral Petra",
+        "gender": "Mujer",
+        "tags": ["petra_ral"],
+        "value": 100
+      },
+      {
+        "id": "679230",
+        "name": "Finger Pieck",
+        "gender": "Mujer",
+        "tags": ["pieck_finger"],
+        "value": 100
+      },
+      {
+        "id": "984549",
+        "name": "Blouse Sasha",
+        "gender": "Mujer",
+        "tags": ["sasha_blouse"],
+        "value": 100
+      },
+      {
+        "id": "960739",
+        "name": "Ymir",
+        "gender": "Mujer",
+        "tags": ["ymir_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "564282",
+        "name": "Ymir Fritz",
+        "gender": "Mujer",
+        "tags": ["ymir_fritz"],
+        "value": 100
+      },
+      {
+        "id": "817478",
+        "name": "Springer Connie",
+        "gender": "Mujer",
+        "tags": ["connie_springer"],
+        "value": 100
+      },
+      {
+        "id": "376849",
+        "name": "Carolina Mina",
+        "gender": "Mujer",
+        "tags": ["mina_carolina"],
+        "value": 100
+      },
+      {
+        "id": "826758",
+        "name": "Zofia",
+        "gender": "Mujer",
+        "tags": ["zofia_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "475726",
+        "name": "Tybur Lara",
+        "gender": "Mujer",
+        "tags": ["lara_tybur"],
+        "value": 100
+      },
+      {
+        "id": "945888",
+        "name": "Reiss Frieda",
+        "gender": "Mujer",
+        "tags": ["frieda_reiss"],
+        "value": 100
+      },
+      {
+        "id": "399911",
+        "name": "Yelena",
+        "gender": "Mujer",
+        "tags": ["yelena_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "351431",
+        "name": "Nanaba",
+        "gender": "Mujer",
+        "tags": ["nanaba"],
+        "value": 100
+      },
+      {
+        "id": "152921",
+        "name": "Dreyse Hitch",
+        "gender": "Mujer",
+        "tags": ["hitch_dreyse"],
+        "value": 100
+      },
+      {
+        "id": "172890",
+        "name": "Braun Gabi",
+        "gender": "Mujer",
+        "tags": ["gabi_braun"],
+        "value": 100
+      },
+      {
+        "id": "147244",
+        "name": "Church Farlan",
+        "gender": "Mujer",
+        "tags": ["farlan_church"],
+        "value": 100
+      },
+      {
+        "id": "507577",
+        "name": "Yeager Carla",
+        "gender": "Mujer",
+        "tags": ["carla_yeager"],
+        "value": 100
+      },
+      {
+        "id": "675644",
+        "name": "Ackerman Kuchel",
+        "gender": "Mujer",
+        "tags": ["kuchel_ackerman"],
+        "value": 100
+      },
+      {
+        "id": "328539",
+        "name": "Magnolia Isabel",
+        "gender": "Mujer",
+        "tags": ["isabel_magnolia"],
+        "value": 100
+      },
+      {
+        "id": "153473",
+        "name": "Nifa",
+        "gender": "Mujer",
+        "tags": ["nifa_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "359207",
+        "name": "Fritz Dina",
+        "gender": "Mujer",
+        "tags": ["dina_fritz"],
+        "value": 100
+      },
+      {
+        "id": "478618",
+        "name": "Reiss Uri",
+        "gender": "Mujer",
+        "tags": ["uri_reiss"],
+        "value": 100
+      },
+      {
+        "id": "669839",
+        "name": "Eren Jaeger",
+        "gender": "Hombre",
+        "tags": ["eren_yeager"],
+        "value": 100
+      },
+      {
+        "id": "512147",
+        "name": "Levi Ackerman",
+        "gender": "Hombre",
+        "tags": ["levi_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "300937",
+        "name": "Armin Arlert",
+        "gender": "Hombre",
+        "tags": ["armin_arlert"],
+        "value": 100
+      },
+      {
+        "id": "503245",
+        "name": "Hannes",
+        "gender": "Hombre",
+        "tags": ["hannes_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "439257",
+        "name": "Smith Erwin",
+        "gender": "Hombre",
+        "tags": ["erwin_smith"],
+        "value": 100
+      },
+      {
+        "id": "593246",
+        "name": "Shadis Keith",
+        "gender": "Hombre",
+        "tags": ["keith_shadis"],
+        "value": 100
+      },
+      {
+        "id": "444339",
+        "name": "Kirstein Jean",
+        "gender": "Hombre",
+        "tags": ["jean_kirstein"],
+        "value": 100
+      },
+      {
+        "id": "744931",
+        "name": "Forster Floch",
+        "gender": "Hombre",
+        "tags": ["floch_forster"],
+        "value": 100
+      },
+      {
+        "id": "249179",
+        "name": "Kruger Eren",
+        "gender": "Hombre",
+        "tags": ["eren_kruger"],
+        "value": 100
+      },
+      {
+        "id": "688103",
+        "name": "Yeager Zeke",
+        "gender": "Hombre",
+        "tags": ["zeke_yeager"],
+        "value": 100
+      },
+      {
+        "id": "586601",
+        "name": "Ackerman Kenny",
+        "gender": "Hombre",
+        "tags": ["kenny_ackerman"],
+        "value": 100
+      },
+      {
+        "id": "374158",
+        "name": "Braun Reiner",
+        "gender": "Hombre",
+        "tags": ["reiner_braun"],
+        "value": 100
+      },
+      {
+        "id": "971966",
+        "name": "Galliard Porco",
+        "gender": "Hombre",
+        "tags": ["porco_galliard"],
+        "value": 100
+      },
+      {
+        "id": "837048",
+        "name": "Onyankopon",
+        "gender": "Hombre",
+        "tags": ["onyankopon_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "190475",
+        "name": "Yeager Grisha",
+        "gender": "Hombre",
+        "tags": ["grisha_yeager"],
+        "value": 100
+      },
+      {
+        "id": "451400",
+        "name": "Grice Falco",
+        "gender": "Hombre",
+        "tags": ["falco_grice"],
+        "value": 100
+      },
+      {
+        "id": "730681",
+        "name": "Berner Moblit",
+        "gender": "Hombre",
+        "tags": ["moblit_berner"],
+        "value": 100
+      },
+      {
+        "id": "393016",
+        "name": "Grice Colt",
+        "gender": "Hombre",
+        "tags": ["colt_grice"],
+        "value": 100
+      },
+      {
+        "id": "712937",
+        "name": "Bott Marco",
+        "gender": "Hombre",
+        "tags": ["marco_bott"],
+        "value": 100
+      },
+      {
+        "id": "123500",
+        "name": "Pixis Dot",
+        "gender": "Hombre",
+        "tags": ["dot_pixis"],
+        "value": 100
+      },
+      {
+        "id": "325021",
+        "name": "Zakarius Mike",
+        "gender": "Hombre",
+        "tags": ["mike_zakarius"],
+        "value": 100
+      },
+      {
+        "id": "386028",
+        "name": "Hoover Bertolt",
+        "gender": "Hombre",
+        "tags": ["bertolt_hoover"],
+        "value": 100
+      },
+      {
+        "id": "644941",
+        "name": "Udo",
+        "gender": "Hombre",
+        "tags": ["udo_(shingeki_no_kyojin)"],
+        "value": 100
+      },
+      {
+        "id": "663388",
+        "name": "Caven Traute",
+        "gender": "Mujer",
+        "tags": ["traute_caven"],
+        "value": 100
+      },
+      {
+        "id": "570156",
+        "name": "Galliard Marcel",
+        "gender": "Hombre",
+        "tags": ["marcel_galliard"],
+        "value": 100
+      }
+    ]
+  },
   "93875909": {
     "name": "Dr.Stone",
     "characters": [
@@ -15541,6 +16224,1725 @@
         "name": "Faust",
         "gender": "Mujer",
         "tags": ["faust_(limbus_company)"],
+        "value": 100
+      }
+    ]
+  },
+  "01202021": {
+    "name": "Wuthering Waves",
+    "characters": [
+      {
+        "id": "888881",
+        "name": "Galbrena",
+        "gender": "Mujer",
+        "tags": ["galbrena_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888882",
+        "name": "Carlotta",
+        "gender": "Mujer",
+        "tags": ["carlotta_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888883",
+        "name": "Changli",
+        "gender": "Mujer",
+        "tags": ["changli_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888884",
+        "name": "Chisa",
+        "gender": "Mujer",
+        "tags": ["chisa_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888885",
+        "name": "Fleurdelys",
+        "gender": "Mujer",
+        "tags": ["fleurdelys_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888886",
+        "name": "Lupa",
+        "gender": "Mujer",
+        "tags": ["lupa_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888887",
+        "name": "Zani",
+        "gender": "Mujer",
+        "tags": ["zani_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888888",
+        "name": "Iuno",
+        "gender": "Mujer",
+        "tags": ["iuno_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888889",
+        "name": "Jinhsi",
+        "gender": "Mujer",
+        "tags": ["jinhsi_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888810",
+        "name": "Cartethyia",
+        "gender": "Mujer",
+        "tags": ["cartethyia_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888811",
+        "name": "Phrolova",
+        "gender": "Mujer",
+        "tags": ["phrolova_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888812",
+        "name": "Phoebe",
+        "gender": "Mujer",
+        "tags": ["phoebe_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888813",
+        "name": "The Shorekeeper",
+        "gender": "Mujer",
+        "tags": ["the_shorekeer_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888814",
+        "name": "Camellya",
+        "gender": "Mujer",
+        "tags": ["camellya_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888815",
+        "name": "Buling",
+        "gender": "Mujer",
+        "tags": ["fleurdelys_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888816",
+        "name": "Yinlin",
+        "gender": "Mujer",
+        "tags": ["yinlin_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888817",
+        "name": "Augusta",
+        "gender": "Mujer",
+        "tags": ["augusta_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888818",
+        "name": "Ciaccona",
+        "gender": "Mujer",
+        "tags": ["ciaccona_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888819",
+        "name": "Chixia",
+        "gender": "Mujer",
+        "tags": ["chixia_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888820",
+        "name": "Zhezhi",
+        "gender": "Mujer",
+        "tags": ["zhezhi_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888821",
+        "name": "Rover",
+        "gender": "Mujer",
+        "tags": ["rover_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888822",
+        "name": "Scar",
+        "gender": "Hombre",
+        "tags": ["scar_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888823",
+        "name": "Lynae (Wuthering Waves)",
+        "gender": "Mujer",
+        "tags": ["lynae_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888824",
+        "name": "Yangyang",
+        "gender": "Mujer",
+        "tags": ["yangyang_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888825",
+        "name": "Geshu Lin",
+        "gender": "Mujer",
+        "tags": ["geshu_lin_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888826",
+        "name": "Taoqi",
+        "gender": "Mujer",
+        "tags": ["taoqi_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888827",
+        "name": "Brant",
+        "gender": "Hombre",
+        "tags": ["brant_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888828",
+        "name": "Jiyan",
+        "gender": "Hombre",
+        "tags": ["jiyan_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888829",
+        "name": "Lumi",
+        "gender": "Mujer",
+        "tags": ["lumi_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888830",
+        "name": "Jianxin",
+        "gender": "Mujer",
+        "tags": ["jianxin_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888831",
+        "name": "Encore",
+        "gender": "Mujer",
+        "tags": ["encore_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888832",
+        "name": "Qiuyuan",
+        "gender": "Hombre",
+        "tags": ["qiuyuan_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888833",
+        "name": "Baizhi",
+        "gender": "Mujer",
+        "tags": ["baizhi_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888834",
+        "name": "Roccia",
+        "gender": "Mujer",
+        "tags": ["roccia_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888835",
+        "name": "Danjin",
+        "gender": "Mujer",
+        "tags": ["danjin_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888836",
+        "name": "Calcharo",
+        "gender": "Hombre",
+        "tags": ["calcharo_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888837",
+        "name": "Verina",
+        "gender": "Mujer",
+        "tags": ["verina_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888838",
+        "name": "Youhu",
+        "gender": "Mujer",
+        "tags": ["youhu_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888839",
+        "name": "Mornye",
+        "gender": "Mujer",
+        "tags": ["mornye_(wuthering_waves)"],
+        "value": 100
+      },
+      {
+        "id": "888840",
+        "name": "Sanhua",
+        "gender": "Mujer",
+        "tags": ["sanhua_(wuthering_waves)"],
+        "value": 100
+      }
+    ]
+  },
+  "33333339": {
+    "name": "Indie Vtuber",
+    "characters": [
+      {
+        "id": "322201",
+        "name": "Nimu",
+        "gender": "Mujer",
+        "tags": ["nimu_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322202",
+        "name": "Sameko Saba",
+        "gender": "Mujer",
+        "tags": ["sameko_saba"],
+        "value": 100
+      },
+      {
+        "id": "322203",
+        "name": "PookyBooVT",
+        "gender": "Mujer",
+        "tags": ["pooky_boo"],
+        "value": 100
+      },
+      {
+        "id": "322204",
+        "name": "Kendomurft",
+        "gender": "Hombre",
+        "tags": ["kendomurft"],
+        "value": 100
+      },
+      {
+        "id": "322205",
+        "name": "Ruka Amagai",
+        "gender": "Mujer",
+        "tags": ["amagai_ruka"],
+        "value": 100
+      },
+      {
+        "id": "322206",
+        "name": "Bon",
+        "gender": "Mujer",
+        "tags": ["bon_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322207",
+        "name": "Meica",
+        "gender": "Mujer",
+        "tags": ["meica_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322208",
+        "name": "Shylily",
+        "gender": "Mujer",
+        "tags": ["shylily"],
+        "value": 100
+      },
+      {
+        "id": "322209",
+        "name": "Mikeneko",
+        "gender": "Mujer",
+        "tags": ["mikeneko_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322210",
+        "name": "Chibidoki",
+        "gender": "Mujer",
+        "tags": ["chibidoki_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322211",
+        "name": "Dooby",
+        "gender": "Mujer",
+        "tags": ["dooby_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322212",
+        "name": "Senzawa",
+        "gender": "Mujer",
+        "tags": ["senzawa"],
+        "value": 100
+      },
+      {
+        "id": "322213",
+        "name": "Elly",
+        "gender": "Mujer",
+        "tags": ["elly_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322214",
+        "name": "TokoVT",
+        "gender": "Mujer",
+        "tags": ["toko_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322215",
+        "name": "Emikukis",
+        "gender": "Mujer",
+        "tags": ["emikukis_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322216",
+        "name": "KeirameVT",
+        "gender": "Mujer",
+        "tags": ["keirame_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322217",
+        "name": "Sky Above Me",
+        "gender": "Mujer",
+        "tags": ["sky_above_me_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322218",
+        "name": "Nene Efthy",
+        "gender": "Mujer",
+        "tags": ["nene_efthy"],
+        "value": 100
+      },
+      {
+        "id": "322219",
+        "name": "Neuro-sama",
+        "gender": "Mujer",
+        "tags": ["neuro-sama"],
+        "value": 100
+      },
+      {
+        "id": "322220",
+        "name": "Tongkkangi",
+        "gender": "Mujer",
+        "tags": ["tongkkangi"],
+        "value": 100
+      },
+      {
+        "id": "322221",
+        "name": "Suwie VT",
+        "gender": "Mujer",
+        "tags": ["suwie_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322222",
+        "name": "Gosegu",
+        "gender": "Mujer",
+        "tags": ["gosegu"],
+        "value": 100
+      },
+      {
+        "id": "322223",
+        "name": "Aoi Nabi",
+        "gender": "Mujer",
+        "tags": ["aoi_nabi"],
+        "value": 100
+      },
+      {
+        "id": "322224",
+        "name": "Filian",
+        "gender": "Mujer",
+        "tags": ["filian_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322225",
+        "name": "Trickywi",
+        "gender": "Mujer",
+        "tags": ["trickywi"],
+        "value": 100
+      },
+      {
+        "id": "322226",
+        "name": "Ui Shigure",
+        "gender": "Mujer",
+        "tags": ["shigure_ui_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322227",
+        "name": "Fantome Mint",
+        "gender": "Mujer",
+        "tags": ["nimu_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322228",
+        "name": "Miilkywayz",
+        "gender": "Mujer",
+        "tags": ["miilkywayz"],
+        "value": 100
+      },
+      {
+        "id": "322229",
+        "name": "Akuma Nihmune",
+        "gender": "Mujer",
+        "tags": ["akuma_nihmune"],
+        "value": 100
+      },
+      {
+        "id": "322230",
+        "name": "Maia Ichika",
+        "gender": "Mujer",
+        "tags": ["ichika_maia"],
+        "value": 100
+      },
+      {
+        "id": "322231",
+        "name": "Pochimaru",
+        "gender": "Mujer",
+        "tags": ["pochimaru_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322232",
+        "name": "Suou Patra",
+        "gender": "Mujer",
+        "tags": ["suou_patra"],
+        "value": 100
+      },
+      {
+        "id": "322233",
+        "name": "snuffy",
+        "gender": "Mujer",
+        "tags": ["snuffy_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322234",
+        "name": "Mashiro Nagino",
+        "gender": "Mujer",
+        "tags": ["nagino_mashiro"],
+        "value": 100
+      },
+      {
+        "id": "322235",
+        "name": "Morino Merun",
+        "gender": "Mujer",
+        "tags": ["merun_morino"],
+        "value": 100
+      },
+      {
+        "id": "322236",
+        "name": "Hyogayome",
+        "gender": "Mujer",
+        "tags": ["hyogayome"],
+        "value": 100
+      },
+      {
+        "id": "322237",
+        "name": "Lion Rurudo",
+        "gender": "Mujer",
+        "tags": ["rurudo_lion"],
+        "value": 100
+      },
+      {
+        "id": "322238",
+        "name": "Pekeko",
+        "gender": "Mujer",
+        "tags": ["pekeko_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322239",
+        "name": "Tala Tora",
+        "gender": "Mujer",
+        "tags": ["tala_tora"],
+        "value": 100
+      },
+      {
+        "id": "322240",
+        "name": "Uto Amatsuka",
+        "gender": "Mujer",
+        "tags": ["amatsuka_uto"],
+        "value": 100
+      },
+      {
+        "id": "322241",
+        "name": "Meiya",
+        "gender": "Mujer",
+        "tags": ["meiya_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322242",
+        "name": "Shinoshima Raise",
+        "gender": "Mujer",
+        "tags": ["shinoshima_raise"],
+        "value": 100
+      },
+      {
+        "id": "322243",
+        "name": "Nene Amano",
+        "gender": "Mujer",
+        "tags": ["amano_nene_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322244",
+        "name": "Shanoa",
+        "gender": "Mujer",
+        "tags": ["shanoa_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322245",
+        "name": "Jingburger",
+        "gender": "Mujer",
+        "tags": ["jingburger"],
+        "value": 100
+      },
+      {
+        "id": "322246",
+        "name": "Laimu",
+        "gender": "Mujer",
+        "tags": ["laimu_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322247",
+        "name": "Yomi Quinnley",
+        "gender": "Mujer",
+        "tags": ["yomi_quinnley"],
+        "value": 100
+      },
+      {
+        "id": "322248",
+        "name": "Hebiyoi Tier",
+        "gender": "Mujer",
+        "tags": ["hebiyoi_tier"],
+        "value": 100
+      },
+      {
+        "id": "322249",
+        "name": "Cottontail",
+        "gender": "Mujer",
+        "tags": ["cottontail_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322250",
+        "name": "Machina X Flayon",
+        "gender": "Hombre",
+        "tags": ["machina_x_flayon"],
+        "value": 100
+      },
+      {
+        "id": "322251",
+        "name": "Naito Mare",
+        "gender": "Mujer",
+        "tags": ["naito_mare_(vtuber)"],
+        "value": 100
+      },
+       {
+        "id": "322252",
+        "name": "Rimu Kotoha",
+        "gender": "Mujer",
+        "tags": ["kotoha_rimu"],
+        "value": 100
+      },
+      {
+        "id": "322253",
+        "name": "Naruru Koromo",
+        "gender": "Mujer",
+        "tags": ["koromo_naruru"],
+        "value": 100
+      },
+      {
+        "id": "322254",
+        "name": "Onigiri",
+        "gender": "Mujer",
+        "tags": ["onigiri_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322255",
+        "name": "Shaovie",
+        "gender": "Mujer",
+        "tags": ["shaovie"],
+        "value": 100
+      },
+      {
+        "id": "322256",
+        "name": "Dtto.",
+        "gender": "Mujer",
+        "tags": ["dtto."],
+        "value": 100
+      },
+      {
+        "id": "322257",
+        "name": "Peo Yukinoshita",
+        "gender": "Mujer",
+        "tags": ["yukinoshita_peo"],
+        "value": 100
+      },
+      {
+        "id": "322258",
+        "name": "Nisha Nixyeva",
+        "gender": "Mujer",
+        "tags": ["nisha_nixyeva"],
+        "value": 100
+      },
+      {
+        "id": "322259",
+        "name": "Chiyo Sakuraba",
+        "gender": "Mujer",
+        "tags": ["sakuraba_chiyo"],
+        "value": 100
+      },
+      {
+        "id": "322260",
+        "name": "Viichan",
+        "gender": "Mujer",
+        "tags": ["viichan"],
+        "value": 100
+      },
+      {
+        "id": "322261",
+        "name": "Miku Pinku",
+        "gender": "Mujer",
+        "tags": ["pinku_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322262",
+        "name": "Natsumiya Ramune",
+        "gender": "Mujer",
+        "tags": ["natsumiya_ramune"],
+        "value": 100
+      },
+      {
+        "id": "322263",
+        "name": "Ray Otsuka",
+        "gender": "Mujer",
+        "tags": ["otsuka_ray"],
+        "value": 100
+      },
+      {
+        "id": "322264",
+        "name": "Purumu Sorashi",
+        "gender": "Mujer",
+        "tags": ["sorashi_purumu"],
+        "value": 100
+      },
+      {
+        "id": "322265",
+        "name": "Canaria",
+        "gender": "Mujer",
+        "tags": ["canaria_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322266",
+        "name": "Xingye",
+        "gender": "Mujer",
+        "tags": ["xingye"],
+        "value": 100
+      },
+      {
+        "id": "322267",
+        "name": "Ponpoko",
+        "gender": "Mujer",
+        "tags": ["ponpoko_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322268",
+        "name": "Himeno Tenshouin",
+        "gender": "Mujer",
+        "tags": ["tenshouin_himeno"],
+        "value": 100
+      },
+      {
+        "id": "322269",
+        "name": "Renlay Renee",
+        "gender": "Mujer",
+        "tags": ["renlay_renee_(vtuber)"],
+        "value": 100
+      },
+      {
+        "id": "322270",
+        "name": "Jururu",
+        "gender": "Mujer",
+        "tags": ["jururu"],
+        "value": 100
+      }
+    ] 
+  },
+  "02020202": {
+    "name": "Sonic",
+    "characters": [
+      {
+        "id": "111111",
+        "name": "Amy Rose",
+        "gender": "Mujer",
+        "tags": ["amy_rose"],
+        "value": 100
+      },
+      {
+        "id": "111112",
+        "name": "Shadow the Hedgehog",
+        "gender": "Hombre",
+        "tags": ["shadow_the_hedgehog"],
+        "value": 100
+      },
+      {
+        "id": "111113",
+        "name": "Fleetway Super Sonic",
+        "gender": "Hombre",
+        "tags": ["fleetway_super_sonic"],
+        "value": 100
+      },
+      {
+        "id": "111114",
+        "name": "Metal Sonic",
+        "gender": "Desconocido",
+        "tags": ["metal_sonic"],
+        "value": 100
+      },
+      {
+        "id": "111115",
+        "name": "tails",
+        "gender": "Hombre",
+        "tags": ["tails_(sonic)"],
+        "value": 100
+      },
+      {
+        "id": "111116",
+        "name": "Sonic the Hedgehog",
+        "gender": "Hombre",
+        "tags": ["sonic_the_hedgehog"],
+        "value": 100
+      },
+      {
+        "id": "111117",
+        "name": "Rouge the Bat",
+        "gender": "Mujer",
+        "tags": ["rouge_the_bat"],
+        "value": 100
+      },
+      {
+        "id": "111118",
+        "name": "Blaze the Cat",
+        "gender": "Mujer",
+        "tags": ["blaze_the_cat"],
+        "value": 100
+      },
+      {
+        "id": "111119",
+        "name": "Silver the Hedgehog",
+        "gender": "Hombre",
+        "tags": ["silver_the_hedgehog"],
+        "value": 100
+      },
+      {
+        "id": "111120",
+        "name": "Dr. Eggman",
+        "gender": "Hombre",
+        "tags": ["dr._eggman"],
+        "value": 100
+      },
+      {
+        "id": "111121",
+        "name": "Knuckles the Echidna",
+        "gender": "Hombre",
+        "tags": ["knucless_the_echidna"],
+        "value": 100
+      },
+      {
+        "id": "111122",
+        "name": "Infinite",
+        "gender": "Hombre",
+        "tags": ["infinite_(sonic)"],
+        "value": 100
+      },
+      {
+        "id": "111123",
+        "name": "Cream the Rabbit",
+        "gender": "Mujer",
+        "tags": ["cream_the_rabbit"],
+        "value": 100
+      },
+      {
+        "id": "111124",
+        "name": "Espio the Chameleon",
+        "gender": "Hombre",
+        "tags": ["espio_the_chameleon"],
+        "value": 100
+      },
+      {
+        "id": "111125",
+        "name": "Sally Acorn",
+        "gender": "Mujer",
+        "tags": ["sally_acorn"],
+        "value": 100
+      },
+      {
+        "id": "111126",
+        "name": "Lanolin the Sheep",
+        "gender": "Mujer",
+        "tags": ["lanolin_the_sheep"],
+        "value": 100
+      },
+      {
+        "id": "111127",
+        "name": "Surge the Tenrec",
+        "gender": "Mujer",
+        "tags": ["surge_the_tenrec"],
+        "value": 100
+      },
+      {
+        "id": "111128",
+        "name": "Honey the Cat",
+        "gender": "Mujer",
+        "tags": ["honey_the_cat"],
+        "value": 100
+      },
+      {
+        "id": "111129",
+        "name": "Vanilla the Rabbit",
+        "gender": "Mujer",
+        "tags": ["vanilla_the_rabbit"],
+        "value": 100
+      }
+    ]
+  },
+  "32023339": {
+    "name": "God of War",
+    "characters": [
+      {
+        "id": "0000017",
+        "name": "Kratos",
+        "gender": "Hombre",
+        "tags": ["kratos_(god_of_war)"],
+        "value": 100
+      },
+      {
+        "id": "0000018",
+        "name": "Atreus",
+        "gender": "Hombre",
+        "tags": ["atreus"],
+        "value": 100
+      },
+      {
+        "id": "0000019",
+        "name": "Freya (God of War)",
+        "gender": "Mujer",
+        "tags": ["freya_(god_of_war)"],
+        "value": 100
+      },
+      {
+        "id": "0000020",
+        "name": "Mimir",
+        "gender": "Hombre",
+        "tags": ["mimir_(god_of_war)"],
+        "value": 100
+      },
+      {
+        "id": "0000021",
+        "name": "Thor (God of War)",
+        "gender": "Hombre",
+        "tags": ["thor_(god_of_war)"],
+        "value": 100
+      }
+    ]    
+  },
+  "13023339": {
+    "name": "Undertale",
+    "characters": [
+      {
+        "id": "0000022",
+        "name": "Chara",
+        "gender": "Desconocido",
+        "tags": ["chara_(undertale)"],
+        "value": 100
+      },
+      {
+        "id": "0000023",
+        "name": "Sans",
+        "gender": "Hombre",
+        "tags": ["sans_(undertale)"],
+        "value": 100
+      },
+      {
+        "id": "0000024",
+        "name": "Frisk",
+        "gender": "Ambos",
+        "tags": ["frisk_(undertale)"],
+        "value": 100
+      },
+      {
+        "id": "0000025",
+        "name": "Clover",
+        "gender": "Ambos",
+        "tags": ["clover_(undertale_yellow)"],
+        "value": 100
+      },
+      {
+        "id": "0000026",
+        "name": "Papyrus",
+        "gender": "Hombre",
+        "tags": ["papyrus_(undertale)"],
+        "value": 100
+      },
+      {
+        "id": "0000027",
+        "name": "Flowey",
+        "gender": "Desconocido",
+        "tags": ["flowey_(undertale)"],
+        "value": 100
+      },
+      {
+        "id": "0000028",
+        "name": "Asriel",
+        "gender": "Hombre",
+        "tags": ["asriel_dreemurr"],
+        "value": 100
+      },
+      {
+        "id": "0000029",
+        "name": "Mettaton Ex",
+        "gender": "Hombre",
+        "tags": ["mettaton_ex"],
+        "value": 100
+      },
+      {
+        "id": "0000030",
+        "name": "Muffet",
+        "gender": "Mujer",
+        "tags": ["muffet"],
+        "value": 100
+      },
+      {
+        "id": "0000031",
+        "name": "Alphys",
+        "gender": "Mujer",
+        "tags": ["alphys"],
+        "value": 100
+      },
+      {
+        "id": "0000032",
+        "name": "Toriel",
+        "gender": "Mujer",
+        "tags": ["toriel"],
+        "value": 100
+      },
+      {
+        "id": "0000033",
+        "name": "Temmie",
+        "gender": "Mujer",
+        "tags": ["temmie"],
+        "value": 100
+      },
+      {
+        "id": "0000034",
+        "name": "W. D. Gaster",
+        "gender": "Hombre",
+        "tags": ["w.d._gaster"],
+        "value": 100
+      },
+      {
+        "id": "0000035",
+        "name": "Undyne",
+        "gender": "Mujer",
+        "tags": ["undyne"],
+        "value": 100
+      },
+      {
+        "id": "0000036",
+        "name": "Annoying Dog",
+        "gender": "Desconocido",
+        "tags": ["annoying_dog"],
+        "value": 100
+      }
+    ]
+  },
+  "33045332": {
+    "name": "Deltarune",
+    "characters": [
+      {
+        "id": "0000037",
+        "name": "Kris",
+        "gender": "Ambos",
+        "tags": ["kris_(deltarune)"],
+        "value": 100
+      },
+      {
+        "id": "0000038",
+        "name": "Ant Tenna",
+        "gender": "Desconocido",
+        "tags": ["ant_tenna"],
+        "value": 100
+      },
+      {
+        "id": "0000039",
+        "name": "Susie",
+        "gender": "Mujer",
+        "tags": ["susie_(deltarune)"],
+        "value": 100
+      },
+      {
+        "id": "0000040",
+        "name": "Spamton",
+        "gender": "Desconocido",
+        "tags": ["spamton_g._spamton"],
+        "value": 100
+      },
+      {
+        "id": "0000041",
+        "name": "Jevil",
+        "gender": "Hombre",
+        "tags": ["jevil"],
+        "value": 100
+      },
+      {
+        "id": "0000042",
+        "name": "Lanino",
+        "gender": "Hombre",
+        "tags": ["lanino_(deltarune)"],
+        "value": 100
+      },
+      {
+        "id": "0000043",
+        "name": "Lancer (Deltarune)",
+        "gender": "Hombre",
+        "tags": ["lancer_(deltarune)"],
+        "value": 100
+      },
+      {
+        "id": "0000044",
+        "name": "Carol Holiday",
+        "gender": "Mujer",
+        "tags": ["carol_holiday"],
+        "value": 100
+      },
+      {
+        "id": "0000045",
+        "name": "Noelle Holiday",
+        "gender": "Mujer",
+        "tags": ["noelle_holiday"],
+        "value": 100
+      }
+    ]
+  },
+  "330465982": {
+    "name": "Fate",
+    "characters": [
+      {
+        "id": "1111117",
+        "name": "Nero Claudius",
+        "gender": "Mujer",
+        "tags": ["nero_Claudius_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111118",
+        "name": "Jeanne d'Arc",
+        "gender": "Mujer",
+        "tags": ["jeanne_d'arc_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111119",
+        "name": "Karna",
+        "gender": "Hombre",
+        "tags": ["karna_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111120",
+        "name": "Astolfo",
+        "gender": "Ambos",
+        "tags": ["astolfo_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111121",
+        "name": "Jeanne d'Arc Alter",
+        "gender": "Mujer",
+        "tags": ["jeanne_d'arc_alter_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111122",
+        "name": "Gilgamesh",
+        "gender": "Hombre",
+        "tags": ["gilgamesh_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111123",
+        "name": "Medusa (Rider)",
+        "gender": "Mujer",
+        "tags": ["medusa_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111124",
+        "name": "Rin Tohsaka",
+        "gender": "Mujer",
+        "tags": ["rin_tohsaka"],
+        "value": 100 
+      },
+      {
+        "id": "1111125",
+        "name": "Morgan le Fay",
+        "gender": "Mujer",
+        "tags": ["morgan_le_fay_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111126",
+        "name": "Artoria Pendragon",
+        "gender": "Mujer",
+        "tags": ["artoria_pendragon_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111127",
+        "name": "Kama",
+        "gender": "Mujer",
+        "tags": ["kama_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111128",
+        "name": "Ishtar",
+        "gender": "Mujer",
+        "tags": ["ishtar_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111129",
+        "name": "Ereshkigal",
+        "gender": "Mujer",
+        "tags": ["ereshkigal_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111130",
+        "name": "Artoria Pendragon Alter",
+        "gender": "Mujer",
+        "tags": ["artoria_pendragon_alter_(fate/grand_order)"],
+        "value": 100 
+      },
+      {
+        "id": "1111131",
+        "name": "Kiyohime",
+        "gender": "Mujer",
+        "tags": ["kiyohime_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111132",
+        "name": "Kiyohime",
+        "gender": "Mujer",
+        "tags": ["kiyohime_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111133",
+        "name": "Artoria Pendragon (Lancer)",
+        "gender": "Mujer",
+        "tags": ["artoria_pendragon_(lancer)"],
+        "value": 100 
+      },
+      {
+        "id": "1111134",
+        "name": "Melusine",
+        "gender": "Mujer",
+        "tags": ["melusine_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111135",
+        "name": "Cleopatra",
+        "gender": "Mujer",
+        "tags": ["cleopatra_(fate)"],
+        "value": 100 
+      },
+      {
+        "id": "1111136",
+        "name": "Tenochtitlan",
+        "gender": "Mujer",
+        "tags": ["tenochtitlan_(fate)"],
+        "value": 100 
+      }
+    ]
+  },
+  "32023393": {
+    "name": "Kinsou no Vermeil",
+    "characters": [
+      {
+        "id": "0000117",
+        "name": "Vermeil",
+        "gender": "Mujer",
+        "tags": ["vermeil_(kinsou_no_vermeil)"],
+        "value": 100
+      },
+      {
+        "id": "0000118",
+        "name": "Alto Goldfield",
+        "gender": "Hombre",
+        "tags": ["alto_goldfield"],
+        "value": 100
+      },
+      {
+        "id": "0000119",
+        "name": "Lilia Kudelfeyt",
+        "gender": "Mujer",
+        "tags": ["lilia_kudelfeyt"],
+        "value": 100
+      },
+      {
+        "id": "0000120",
+        "name": "Chris Westland",
+        "gender": "Mujer",
+        "tags": ["chris_westland"],
+        "value": 100
+      },
+      {
+        "id": "0000121",
+        "name": "Cheryl Iridescence",
+        "gender": "Mujer",
+        "tags": ["cheryl_iridescence"],
+        "value": 100
+      }
+    ] 
+  },
+  "33023339": {
+    "name": "Doki Doki Literature Club",
+    "characters": [
+      {
+        "id": "0000013",
+        "name": "Natsuki",
+        "gender": "Mujer",
+        "tags": ["natsuki_(doki_doki_literature_club)"],
+        "value": 100
+      },
+      {
+        "id": "0000014",
+        "name": "Yuri",
+        "gender": "Mujer",
+        "tags": ["yuri_(doki_doki_literature_club)"],
+        "value": 100
+      },
+      {
+        "id": "0000015",
+        "name": "Sayori",
+        "gender": "Mujer",
+        "tags": ["sayori_(doki_doki_literature_club)"],
+        "value": 100
+      },
+      {
+        "id": "0000016",
+        "name": "Monika",
+        "gender": "Mujer",
+        "tags": ["monika_(doki_doki_literature_club)"],
+        "value": 100
+      }
+    ]
+  },
+  "33033339": {
+    "name": "Hajime no Ippo",
+    "characters": [
+      {
+        "id": "0000001",
+        "name": "Ippo Makunouichi",
+        "gender": "Hombre",
+        "tags": ["makunouchi_ippo"],
+        "value": 100
+      },
+      {
+        "id": "0000002",
+        "name": "Sendo Takeshi",
+        "gender": "Hombre",
+        "tags": ["sendo_takeshi"],
+        "value": 100
+      },
+      {
+        "id": "0000003",
+        "name": "Mamoru Takamura",
+        "gender": "Hombre",
+        "tags": ["takamura_mamoru"],
+        "value": 100
+      },
+      {
+        "id": "0000004",
+        "name": "Eiji Date",
+        "gender": "Hombre",
+        "tags": ["date_eiji"],
+        "value": 100
+      },
+      {
+        "id": "0000005",
+        "name": "Manabu Itagaki",
+        "gender": "Hombre",
+        "tags": ["itagaki_manabu"],
+        "value": 100
+      },
+      {
+        "id": "0000006",
+        "name": "Kumi Mashiba",
+        "gender": "Mujer",
+        "tags": ["mashiba_kumi"],
+        "value": 100
+      },
+      {
+        "id": "0000007",
+        "name": "Miyata Ichirou",
+        "gender": "Hombre",
+        "tags": ["miyata_ichirou"],
+        "value": 100
+      },
+      {
+        "id": "0000008",
+        "name": "Genji Kamogawa",
+        "gender": "Hombre",
+        "tags": ["kamogawa_genji"],
+        "value": 100
+      },
+      {
+        "id": "0000009",
+        "name": "Tatsuya Kimura",
+        "gender": "Hombre",
+        "tags": ["kimura_tatsuya"],
+        "value": 100
+      },
+      {
+        "id": "0000010",
+        "name": "Masaru Aoki",
+        "gender": "Hombre",
+        "tags": ["aoki_masaru"],
+        "value": 100
+      },
+      {
+        "id": "0000011",
+        "name": "Nekota Ginpachi",
+        "gender": "Hombre",
+        "tags": ["nekota_ginpachi"],
+        "value": 100
+      },
+      {
+        "id": "0000012",
+        "name": "Hawk Bryan",
+        "gender": "Hombre",
+        "tags": ["bryan_hawk"],
+        "value": 100
+      }
+    ]
+  },
+  "330465892": {
+    "name": "Arknights: Endfield",
+    "characters": [
+      {
+        "id": "1111111",
+        "name": "Chen Qianyu",
+        "gender": "Mujer",
+        "tags": ["chen_qianyu_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "1111112",
+        "name": "Yvonne",
+        "gender": "Mujer",
+        "tags": ["yvonne_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "1111113",
+        "name": "Laevatein",
+        "gender": "Mujer",
+        "tags": ["laevatein_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "1111114",
+        "name": "Rossi (Arknight: Endfield)",
+        "gender": "Mujer",
+        "tags": ["rossi_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "1111115",
+        "name": "Fluorite",
+        "gender": "Mujer",
+        "tags": ["fluorite_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "1111116",
+        "name": "Ember",
+        "gender": "Mujer",
+        "tags": ["ember_(arknights)"],
+        "value": 100
+      }
+    ]
+  },      
+  "330456892": {
+    "name": "Arknights",
+    "characters": [
+      {
+        "id": "0000046",
+        "name": "Priestess",
+        "gender": "Mujer",
+        "tags": ["priestess_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000047",
+        "name": "Ifrit",
+        "gender": "Mujer",
+        "tags": ["ifrit_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000048",
+        "name": "W",
+        "gender": "Mujer",
+        "tags": ["w_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000049",
+        "name": "Ines",
+        "gender": "Mujer",
+        "tags": ["ines_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000050",
+        "name": "Dusk",
+        "gender": "Mujer",
+        "tags": ["dusk_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000051",
+        "name": "Exusiai",
+        "gender": "Mujer",
+        "tags": ["exusiai_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000052",
+        "name": "Nightmare",
+        "gender": "Mujer",
+        "tags": ["nightmare_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000053",
+        "name": "Indra",
+        "gender": "Mujer",
+        "tags": ["indra_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000054",
+        "name": "Frostnova",
+        "gender": "Mujer",
+        "tags": ["frostnova_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000055",
+        "name": "Lappland",
+        "gender": "Mujer",
+        "tags": ["lappland_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000056",
+        "name": "Lin",
+        "gender": "Mujer",
+        "tags": ["lin_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000057",
+        "name": "Theresa",
+        "gender": "Mujer",
+        "tags": ["theresa_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000058",
+        "name": "Amiya",
+        "gender": "Mujer",
+        "tags": ["amiya_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000059",
+        "name": "Thorns",
+        "gender": "Hombre",
+        "tags": ["thorns_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000060",
+        "name": "Texas",
+        "gender": "Mujer",
+        "tags": ["texas_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000061",
+        "name": "Sussurro",
+        "gender": "Mujer",
+        "tags": ["sussurro_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000062",
+        "name": "Surtr",
+        "gender": "Mujer",
+        "tags": ["surtr_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000063",
+        "name": "Shu",
+        "gender": "Mujer",
+        "tags": ["shu_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000064",
+        "name": "Specter",
+        "gender": "Mujer",
+        "tags": ["specter_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000065",
+        "name": "Cliffheart",
+        "gender": "Mujer",
+        "tags": ["cliffheart_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000066",
+        "name": "Blaze",
+        "gender": "Mujer",
+        "tags": ["blaze_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000067",
+        "name": "Scene",
+        "gender": "Mujer",
+        "tags": ["scene_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000068",
+        "name": "ShiraYuki",
+        "gender": "Mujer",
+        "tags": ["shirayuki_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000069",
+        "name": "Nian",
+        "gender": "Mujer",
+        "tags": ["nian_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000070",
+        "name": "Mudrock",
+        "gender": "Mujer",
+        "tags": ["mudrock_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000071",
+        "name": "Pramanix",
+        "gender": "Mujer",
+        "tags": ["pramanix_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000072",
+        "name": "Saga",
+        "gender": "Mujer",
+        "tags": ["saga_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000073",
+        "name": "Suzuran",
+        "gender": "Mujer",
+        "tags": ["suzuran_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000074",
+        "name": "Gravel",
+        "gender": "Mujer",
+        "tags": ["gravel_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000075",
+        "name": "Typhon",
+        "gender": "Mujer",
+        "tags": ["typhon_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000076",
+        "name": "Skadi",
+        "gender": "Mujer",
+        "tags": ["skadi_(arknights)"],
+        "value": 100
+      },
+      {
+        "id": "0000077",
+        "name": "Vulpisfoglia",
+        "gender": "Mujer",
+        "tags": ["vulpisfoglia_(arknights)"],
         "value": 100
       }
     ]
