@@ -1,5 +1,9 @@
-let handler = async (m, { conn }) => {
-let reglas = `╰Futabu Club╯
+export default {
+  command: ['reglas', 'rules', 'reglasgrupo', 'rulesgrupo', 'rulesgroup'],
+  category: 'grupo',
+  
+  run: async (client, m, args, usedPrefix, command, text) => {
+    const reglas = `╰Futabu Club╯
 
 📝| Reglas:
 ❖ Respeto 
@@ -36,12 +40,8 @@ let reglas = `╰Futabu Club╯
 ➥ Se permiten ciertos comandos con límites de uso específicos.
 
 ❖ Flood
-➥ Se prohíbe enviar múltiples mensajes idénticos para evitar inundar el chat.`
+➥ Se prohíbe enviar múltiples mensajes idénticos para evitar inundar el chat.`;
 
-m.reply(reglas)
+    m.reply(reglas);
+  }
 }
-handler.help = ['reglas']
-handler.tags = ['grupo']
-handler.command = /^(reglas|rules|reglasgrupo|rulesgrupo|rulesgroup)$/i
-handler.group = true
-export default handler
