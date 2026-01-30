@@ -42,28 +42,47 @@ Link: https://chat.whatsapp.com/IKCpRmuyrNBL41wb9J2kNO?mode=ac_c`);
         m.reply(`Nada aún!`);
         break;
 
+      // --- CONTENIDO CON IMAGEN ---
       case 'contenido':
       case 'contenidopermitido':
-        m.reply(`*_✅|CONTENIDO PERMITIDO_* \n\n*_❌|CONTENIDO PROHIBIDO_* \n\n⭐| Recuerda que la temática tiene que ser más de.`);
+        await client.sendMessage(m.chat, { 
+            image: { url: 'https://i.imgur.com/QbQ0XfM.jpeg' }, // <--- CAMBIA ESTO
+            caption: `*_✅|CONTENIDO PERMITIDO_*\n★ Futanari\n★ Femboy's\n★ Hentai/Furry\n★ Transexual\n★ Pack Soft/Semi-Desnudo\n★ Porno normal\n\n*_❌|CONTENIDO PROHIBIDO_*\n✦ Earfuck\n✦ Scat\n✦ Necrofilia\n✦ Zoofilia\n✦ Gore\n✦ Vore\n✦ CP (Child Porn)\n✦ Toddler (Relación con bebés)\n✦ Lolis/Shotas\n\n⭐| Recuerda que la temática tiene que ser más de Futanari.`
+        }, { quoted: m });
         break;
 
+      // --- DISCORD CON IMAGEN ---
       case 'discord':
       case 'serverdiscord':
       case 'grupodiscord':
-        m.reply(`Nuestro Server de Discord!\nLink: https://discord.gg/UjdSaTESQG`);
+        await client.sendMessage(m.chat, { 
+            image: { url: 'https://i.imgur.com/ON9kQuv.jpeg' }, // <--- CAMBIA ESTO
+            caption: `Nuestro Server de Discord!\nLink: https://discord.gg/UjdSaTESQG`
+        }, { quoted: m });
         break;
 
+      // --- TELEGRAM CON IMAGEN ---
       case 'telegram':
       case 'grupodetelegram':
-        m.reply(`Nuestro grupo de Telegram!\nLink: https://t.me/FutabuClub`);
+        await client.sendMessage(m.chat, { 
+            image: { url: 'https://i.imgur.com/8b86WyG.png' }, // <--- CAMBIA ESTO
+            caption: `Nuestro grupo de Telegram!\nLink: https://t.me/Futabu_Club`
+        }, { quoted: m });
         break;
         
       case 'evento':
       case 'eventos':
-        m.reply(`*_Limpieza de Miembros Inactivos (7 de Septiembre 2025)_*
+        m.reply(`*_Limpieza de Miembros Inactivos (7 de Febrero 2026)_*
 
-Guarda este link para recordartelo: wa.me/+5492604849203
-Buena suerte si sobrevives a la purga ese dia ;)`);
+Esto se hace como un aviso para empezar a hacer activo en los meses que faltan antes que llegue el dia, traten de ser activos constantemente y aportar una que otra vez contenido. Si son personas ocupadas, traten de pasarse aquí para hablar de vez en cuando.
+
+Si ocurre algún inconveniente durante los siguientes días/meses/semanas debido a cosas de trabajo, escolares, familiares, etc.:
+
+Guarden este link en un portapapeles para recordarlo y pegarlo en WhatsApp; al tocarlo abrirá un chat privado conmigo:
+
+*GUARDA ESTE LINK*: wa.me/+5492604849203
+
+Buena suerte si sobrevives a la purga ese día ;)`);
         break;
     }
   }
