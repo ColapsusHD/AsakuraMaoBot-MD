@@ -61,7 +61,7 @@ Esto se hace como un aviso para empezar a hacer activo en los meses que faltan.
 
 handler.help = ['apoyo', 'comunidad', 'concurso', 'contenido', 'discord', 'telegram', 'eventos']
 handler.tags = ['grupo']
-handler.command = /^(apoyo|mejorar|apoyobot|mejorarbot|comunidad|grupocomunidad|grupoavisos|concurso|concursofutabuclub|contenido|listacontenido|listcontenido|contenidopermitido|serverdis|serverdiscord|discord|grupodiscord|linkdiscord|telegram|grupodetelegram|linktelegram|evento|eventos|eventofutabuclub)$/i
+handler.command = ['apoyo', 'mejorar', 'apoyobot', 'mejorarbot', 'comunidad', 'grupocomunidad', 'grupoavisos', 'concurso', 'concursofutabuclub', 'contenido', 'listacontenido', 'listcontenido', 'contenidopermitido', 'serverdis', 'serverdiscord', 'discord', 'grupodiscord', 'linkdiscord', 'telegram', 'grupodetelegram', 'linktelegram', 'evento', 'eventos', 'eventofutabuclub']
 handler.group = true
 
 export default handler
