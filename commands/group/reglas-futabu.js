@@ -1,5 +1,5 @@
 export default {
-  command: ['reglas', 'rules', 'reglasgrupo', 'rulesgrupo', 'rulesgroup'],
+  command: ['reglas', 'rules', 'reglasgrupo', 'rulesgrupo', 'rulesgroup', 'regla'],
   category: 'grupo',
   
   run: async (client, m, args, usedPrefix, command, text) => {
@@ -9,7 +9,6 @@ export default {
 
     const reglas = `╰Futabu Club╯
 
-📝| Reglas:
 📝| Reglas:
 ❖ Respeto 
 ➥ Se debe respetar a todos en el grupo, evitando insultos hacia personas de otros países.
