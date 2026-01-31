@@ -6,8 +6,7 @@ export default {
   category: 'nsfw',
   
   run: async (client, m, args, usedPrefix, command, text) => {
-    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.'){
-    
+    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.') {
         // Inicializamos la DB si no existe (igual que en setwelcome)
         if (!global.db.data.chats[m.chat]) global.db.data.chats[m.chat] = {}
         
