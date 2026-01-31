@@ -9,42 +9,55 @@ export default {
 
     const reglas = `╰Futabu Club╯
 
+۞ Warn = Advertencia
+
 📝| Reglas:
-❖ Respeto 
-➥ Se debe respetar a todos en el grupo, evitando insultos hacia personas de otros países.
 
-❖ Peleas o Discusiones
-➥ Cualquier conflicto debe resolverse en privado, sin afectar al grupo.
+❖ *Respeto* 
+➥ Se debe respetar a todo miembro del grupo, evitando insultos u ofensas a cualquier persona independientemente de su género, sexo, nacionalidad, condición, físico, etc.
 
-❖ Pedofilia
-➥ Queda estrictamente prohibido acosar sexualmente a menores.
+Esto incluye insistir bromas o comentarios hacia personas no receptivas.
+> ۞ SANCIÓN: 1 Warn (Situación leve), 2 Warns + Silenciar por 5m (Situación media), Ban (Situación agresiva).
 
-❖ Doxeo
-➥ No se puede compartir información privada de ningún miembro.
+❖ *Intenciones y Privados* 
+➥ Este grupo no es un bar de citas, ni las personas aquí son tu fetiche. Por lo tanto, pedir privados con esa intención, hablar indiscriminadamente o presentarte buscando pareja está prohibido.
 
-❖ Toxicidad
-➥ Se prohíben los insultos y el humor inapropiado hacia personas no receptivas.
+Los mensajes privados se deben pedir respetuosamente por el grupo. En caso contrario, se sancionará.
+> ۞ SANCIÓN: 2 Warns (Intención leve), Ban (Intención al entrar al grupo).
 
-❖ Uso de Comandos RPG
-➥ Solo se permiten ciertos comandos en el grupo, el resto solo en privado o en el grupo de Futabu Casino.
+❖ *Peleas o Discusiones*
+➥ Los conflictos a veces ocurren. En caso de presentarse uno, es importante hablarlo en privado y con respeto. De esta forma, el grupo queda tranquilo y fuera de la discusión, evitando causar incomodidad a otros usuarios.
 
-❖ Spam
-➥ No se puede enviar muy seguido enlaces, stickers o promociones sin permiso de un administrador.
+En caso de que el conflicto no se solucione de forma pacífica o genere líos mayores, se valorarán otras soluciones. Por favor, aportar la información a los Administradores para facilitar la resolución.
+> ۞ SANCIÓN: 1 Warn (Situación leve), 2 Warns + Silenciar por 10m (Situación media), 3 Warns + Silenciar por 30m (Situación agresiva).
 
-❖ Binarios o Inmune
-➥ Está prohibido enviar archivos multimedia que puedan causar cierres inesperado o crasheos a Whatsapp.
+❖ *Doxeo*
+➥ Está terminantemente prohibido compartir o revelar información privada de cualquiera persona. 
 
-❖ Acoso
-➥ No se permite acosar a miembros o administradores en privado.
+Esto incluye imágenes, direcciones, datos privados, etc.
+> ۞ SANCIÓN: Ban Permanente.
 
-❖ Mandar Packs
-➥ No se permiten mandar packs de alguien o tuyos, sean tetas/pene/trasero o vagina.
+❖ *Spam/Promoción*
+➥ La difusión ya sea de promos, links de grupos, etc; sin el permiso de un administrador de rango alto queda prohibida y por tanto, sancionada.
 
-❖ Uso de comandos +18 del Bot
-➥ Se permiten ciertos comandos con límites de uso específicos.
+Si se puede enviar links seguros, como por ejemplo de videos de YouTube, anime, páginas porno, etc. Pero con moderación.
+> ۞ SANCIÓN: 2 Warns.
 
-❖ Flood
-➥ Se prohíbe enviar múltiples mensajes idénticos para evitar inundar el chat.`;
+❖ *Acoso y/o Pedofilia*
+➥ Queda prohibido hablar al privado sin permiso. Y aún más si se trata de acoso a menores.
+
+Esto incluye hablar a Administradores al privado sin su permiso a menos que sean una intención referida a la moderación.
+
+Cualquier tipo de acoso, especialmente a menores, tendrá consecuencias directas, sin excepciones.
+> ۞ SANCIÓN: 1 Warn (Intención no menores), Ban Permanente (Intención con menores).
+
+❖ *Flood*
+➥ Se entiende como Flood romper el flujo de mensajes sano de un grupo por el exceso de estos. Es decir, inundar el grupo con mensajes repetidos y demás.
+
+Para evitar esto y mantener un ritmo sano para todos, hay un límite de 4 stickers/emojis y mensajes repetidos.
+
+_*IMPORTANTE*_: participar en un Flood o Inundación como por ejemplo, enviar muchos stickers o emojis  junto a otros usuarios, también se considera Flood, aunque no sean precisamente seguidos.
+> ۞ SANCIÓN: 1 Warn + Silenciar por 10m`;
 
     // 2. Enviamos el mensaje como Imagen con Caption (Texto)
     // 'image': acepta url o buffer
