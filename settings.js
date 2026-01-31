@@ -9,7 +9,7 @@ global.dev = "Creado por Colapsus"
 global.links = {
 api: 'https://api.stellarwa.xyz',
 web: 'http://localhost:5010',
-channel: "",
+channel: "120363425264664002@g.us",
 github: "",
 gmail: ""
 }
