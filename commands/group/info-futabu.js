@@ -47,7 +47,7 @@ Link: https://chat.whatsapp.com/IKCpRmuyrNBL41wb9J2kNO?mode=ac_c`);
       case 'contenidopermitido':
         await client.sendMessage(m.chat, { 
             image: { url: 'https://i.imgur.com/QbQ0XfM.jpeg' }, // <--- CAMBIA ESTO
-            caption: `✅| CONTENIDO PERMITIDO
+            caption: `_*✅| CONTENIDO PERMITIDO*_
 > ★ Futanari
 > ★ Femboys
 > ★ Hentai
@@ -57,7 +57,7 @@ Link: https://chat.whatsapp.com/IKCpRmuyrNBL41wb9J2kNO?mode=ac_c`);
 > ★ Hetero
 > ★ AI/IA
 
-❌| CONTENIDO PROHIBIDO
+_*❌| CONTENIDO PROHIBIDO*_
 > ✦ Earfuck (Follar/Cojer por la oreja)
 >  ﹂۞ Sanción: 1 Warn.
 > ✦ Scat (Porno de Heces)
