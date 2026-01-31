@@ -12,6 +12,7 @@ export default {
   category: 'grupo',
   
   run: async (client, m, args, usedPrefix, command, text) => {
+    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.')
     
     switch (command) {
       case 'apoyo':
