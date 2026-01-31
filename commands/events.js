@@ -16,7 +16,7 @@ export default async (client, m) => {
       for (const p of anu.participants) {
         const jid = p.phoneNumber
         const phone = p.phoneNumber?.split('@')[0] || jid.split('@')[0]
-        const pp = await client.profilePictureUrl(jid, 'image').catch(_ => 'https://cdn.yuki-wabot.my.id/files/nufq.jpeg')       
+        //const pp = await client.profilePictureUrl(jid, 'image').catch(_ => 'https://cdn.yuki-wabot.my.id/files/nufq.jpeg')       
         const mensajes = { add: chat.sWelcome ? `\n┊➤ ${chat.sWelcome.replace(/{usuario}/g, `@${phone}`).replace(/{grupo}/g, `*${metadata.subject}*`).replace(/{desc}/g, metadata?.desc || '✿ Sin Desc ✿')}` : '', remove: chat.sGoodbye ? `\n┊➤ ${chat.sGoodbye.replace(/{usuario}/g, `@${phone}`).replace(/{grupo}/g, `*${metadata.subject}*`).replace(/{desc}/g, metadata?.desc || '✿ Sin Desc ✿')}` : '', leave: chat.sGoodbye ? `\n┊➤ ${chat.sGoodbye.replace(/{usuario}/g, `@${phone}`).replace(/{grupo}/g, `*${metadata.subject}*`).replace(/{desc}/g, metadata?.desc || '✿ Sin Desc ✿')}` : '' }
         const fakeContext = {
           contextInfo: {
@@ -51,7 +51,7 @@ export default async (client, m) => {
 ┊➤ *Ahora somos ${memberCount} miembros.* ${mensajes[anu.action]}
 ┊ ︿︿︿︿︿︿︿︿︿︿︿
 ╰─────────────────╯`
-         await client.sendMessage(anu.id, { image: { url: pp }, caption, ...fakeContext })     
+         await client.sendMessage(anu.id, { image: { url: 'https://i.imgur.com/uYBExH3.png' }, caption, ...fakeContext })     
         }
         if ((anu.action === 'remove' || anu.action === 'leave') && chat?.goodbye && (!primaryBotId || primaryBotId === botId)) {
           const caption = `╭┈──̇─̇─̇────̇─̇─̇──◯◝
@@ -64,7 +64,7 @@ export default async (client, m) => {
 ┊➤ *Ahora somos ${memberCount} miembros.* ${mensajes[anu.action]}
 ┊ ︿︿︿︿︿︿︿︿︿︿︿
 ╰─────────────────╯`
-          await client.sendMessage(anu.id, { image: { url: pp }, caption, ...fakeContext })
+          await client.sendMessage(anu.id, { image: { url: '' }, caption, ...fakeContext })
         }
         if (anu.action === 'promote' && chat?.alerts && (!primaryBotId || primaryBotId === botId)) {
           const usuario = anu.author
