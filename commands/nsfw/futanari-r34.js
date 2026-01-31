@@ -6,15 +6,18 @@ export default {
   category: 'nsfw',
   
   run: async (client, m, args, usedPrefix, command, text) => {
-    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.') {
-        // Inicializamos la DB si no existe (igual que en setwelcome)
-        if (!global.db.data.chats[m.chat]) global.db.data.chats[m.chat] = {}
-        
-        // Verificamos si está activado el modo nsfw o modohorny
-        let chat = global.db.data.chats[m.chat]
-        if (!chat.nsfw && !chat.modohorny) {
-            return m.reply('[ ⚠️ ] Los comandos +18 están desactivados en este grupo.')
-        }
+    
+    // 1. VERIFICACIÓN DE GRUPO
+    // Si NO es grupo (!m.isGroup), responde y detiene el código (return)
+    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.')
+
+    // 2. VERIFICACIÓN DE BASE DE DATOS (NSFW)
+    // Como ya sabemos que es un grupo (porque pasó la línea anterior), procedemos:
+    if (!global.db.data.chats[m.chat]) global.db.data.chats[m.chat] = {}
+    
+    let chat = global.db.data.chats[m.chat]
+    if (!chat.nsfw && !chat.modohorny) {
+        return m.reply('[ ⚠️ ] Los comandos +18 están desactivados en este grupo.')
     }
 
     // LÓGICA PARA VIDEO (MP4)
