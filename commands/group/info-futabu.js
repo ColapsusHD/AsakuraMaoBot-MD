@@ -47,7 +47,39 @@ Link: https://chat.whatsapp.com/IKCpRmuyrNBL41wb9J2kNO?mode=ac_c`);
       case 'contenidopermitido':
         await client.sendMessage(m.chat, { 
             image: { url: 'https://i.imgur.com/QbQ0XfM.jpeg' }, // <--- CAMBIA ESTO
-            caption: `*_✅|CONTENIDO PERMITIDO_*\n★ Futanari\n★ Femboy's\n★ Hentai/Furry\n★ Transexual\n★ Pack Soft/Semi-Desnudo\n★ Porno normal\n\n*_❌|CONTENIDO PROHIBIDO_*\n✦ Earfuck\n✦ Scat\n✦ Necrofilia\n✦ Zoofilia\n✦ Gore\n✦ Vore\n✦ CP (Child Porn)\n✦ Toddler (Relación con bebés)\n✦ Lolis/Shotas\n\n⭐| Recuerda que la temática tiene que ser más de Futanari.`
+            caption: `✅| CONTENIDO PERMITIDO
+> ★ Futanari
+> ★ Femboys
+> ★ Hentai
+> ★ Furry
+> ★ Feral (Porno de animales animado)
+> ★ Transexual
+> ★ Hetero
+> ★ AI/IA
+
+❌| CONTENIDO PROHIBIDO
+> ✦ Earfuck (Follar/Cojer por la oreja)
+>  ﹂۞ Sanción: 1 Warn.
+> ✦ Scat (Porno de Heces)
+>  ﹂۞ Sanción: 2 Warns.
+> ✦ Necrofilia (Sexo con cadáver)
+>  ﹂۞ Sanción: Ban.
+> ✦ Zoofilia (Porno de animales IRL)
+>  ﹂۞ Sanción: Ban.
+> ✦ Gore (Contenido sangriento)
+>  ﹂۞ Sanción: Ban.
+> ✦ Vore (Comerse Personas)
+>  ﹂۞ Sanción: 1 Warn.
+> ✦ CP (Porno Infantil)
+>  ﹂۞ Sanción: Ban.
+> ✦ Toddler (Relación con bebés) 
+>  ﹂۞ Sanción: Ban.
+> ✦ Lolis (Porno Infantil Animado)
+>  ﹂۞ Sanción: 2 Warns.
+> ✦ Shotas (Porno Infantil Animado)
+>  ﹂۞ Sanción: 2 Warns.
+ 
+⭐️| Recuerda que la temática tiene que ser más de _*Futanari*_.`
         }, { quoted: m });
         break;
 
