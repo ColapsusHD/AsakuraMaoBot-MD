@@ -4,6 +4,8 @@ export default {
   command: ['r34', 'rule34', 'rule'],
   category: 'nsfw',
   run: async (client, m, args, usedPrefix, command) => {
+    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.')
+    
     try {
       if (!globalThis.db.data.chats[m.chat]?.nsfw) return m.reply(`ꕥ El contenido *NSFW* está desactivado en este grupo.\n\nUn *administrador* puede activarlo con el comando:\n» *${usedPrefix}nsfw on*`)
       if (!args[0]) return client.reply(m.chat, `《✧》 Debes especificar tags para buscar\n> Ejemplo » *${usedPrefix + command} neko*`, m)      
