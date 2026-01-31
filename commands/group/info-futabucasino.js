@@ -7,6 +7,7 @@ export default {
   category: 'grupo',
   
   run: async (client, m, args, usedPrefix, command, text) => {
+    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.')
     
     // 1. REGLAS CASINO (Con Imagen)
     if (['reglasfutabucasino', 'rulesfutabucasino', 'reglasfc'].includes(command)) {
