@@ -3,6 +3,7 @@ export default {
   category: 'grupo',
   
   run: async (client, m, args, usedPrefix, command, text) => {
+    if (!m.isGroup) return m.reply('❌ Este comando solo se puede usar en grupos.')
     
     // 1. Aquí pones el Link directo de tu imagen (debe terminar en .jpg o .png preferiblemente)
     const imagenUrl = 'https://i.imgur.com/cGvNorx.jpeg'; 
