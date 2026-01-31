@@ -7,15 +7,11 @@ global.sessionName = 'Sessions/Owner'
 global.version = '^2.0 - Latest'
 global.dev = "Creado por Colapsus"
 global.links = {
-api: 'https://api.stellarwa.xyz',
-web: 'http://localhost:5010',
-channel: "120363425264664002@g.us",
-github: "",
-gmail: ""
+channel: "https://chat.whatsapp.com/GWwURiDTZJp12OJ5CHTO1R"
 }
 global.my = {
-ch: '',
-name: '',
+ch: '120363425264664002@newsletter',
+name: 'Futabu Club!',
 }
 
 global.mess = {
